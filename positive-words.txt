@@ -1,0 +1,6 @@
+land
+enchantment
+artifact
++
+gain
+win
